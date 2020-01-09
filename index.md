@@ -29,6 +29,8 @@ Syntax highlighted code block
 ```
 for example：[w3school](http://www.w3school.com.cn/) and ![boat](http://www.w3school.com.cn/images/boat.gif).
 
+![avatar](https://avatars3.githubusercontent.com/u/59565338?s=460&v=4).
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
