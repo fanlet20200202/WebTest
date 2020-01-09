@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Link](http://www.w3school.com.cn/) and ![Image](http://www.w3school.com.cn/images/boat.gif)
+[w3school](http://www.w3school.com.cn/) and ![boat](http://www.w3school.com.cn/images/boat.gif)
 
 ```
 
